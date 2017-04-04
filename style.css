@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.aleximage{ 
+  margin-left: 100px;
+  height: 40000px;
+}
+
+date {
+  float: left;
+}
+
+
+img:not([src^='https://heliotraining.com']) {
+   max-width: 150px;
+   max-height: 150px;
+}
+
+.helio {
+  margin-left: 25%;
+  margin-right: 75%;
+}
+
+html {
+  background-color: #3a393a;
+}
+
+.page-wrap {
+  width: 960px;
+  margin: 0 auto;
+}
+
+h3 {
+  float: middle;
+}
+
+.whyhelio {
+  float: right;
+  background-color: #FFA500;
+  
+}
+
+figure {
+  display: inline-block;
+  width: 35%
+}
+
+figcaption {
+  max-width: 130px;
+  border-style: groove;
+  border-width: 4px;
+  border-color: grey;
+  background-color: grey;
+}
+
+h4 {
+  color: orange;
+}
+
+article {
+  background: grey;
+  margin-bottom: 40px;
+}
+
+footer{
+  color: red;
+}
+
+
