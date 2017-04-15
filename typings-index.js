@@ -5,8 +5,8 @@ let Cat = function(name, color){
 }
 
 export default {
-  stringObj: '',
-  myString: '',
+  stringObj: 'Hello World',
+  myString: 'Hello World',
   myNum: 1,
   myDecimal: 0.02,
   myFloat: 0.1,
