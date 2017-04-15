@@ -5,14 +5,17 @@ let Cat = function(name, color){
 }
 
 export default {
-  stringObj: null,
-  myString: null,
-  myNum: null,
-  myDecimal: null,
-  myFloat: null,
-  myFloat2: null,
-  myArrowFn: null,
-  myObj: null,
+  stringObj: '',
+  myString: '',
+  myNum: 1,
+  myDecimal: 0.02,
+  myFloat: 0.1,
+  myFloat2: 0.2,
+  myArrowFn: =>,
+  myObj: {},
   Cat: Cat,
   Fluffy: new Cat('Fluffy', 'white')
 };
+
+
+
