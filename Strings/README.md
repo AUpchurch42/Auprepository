@@ -23,6 +23,6 @@
 1. What is a string's data type really? (Discussed in class)
   -It is really just and array of characters. That is why it can be manipulated like an array using functions such as split.
 2. What are some functions that overlap with other types?
-  -
+  -There are some methods that are found on strings that are also found on numbers such as "toString()".
 3. What is RegEx used for?
   -Regular expressions are a standardized way to parse through a string. 
