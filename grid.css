@@ -1,0 +1,24 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.row {
+  margin: -15px;
+  margin-bottom: 20px;
+}
+[class*=col-lg-]{
+  float: left;
+  padding: 0 15px;
+}
+.col-lg-6 {
+  width: 50%;
+}
+.col-lg-12{
+  width: 100%;
+}
+.col-lg-3{
+  width: 25%  
+}
+.col-lg-4{
+    width: 33.33%
+}
